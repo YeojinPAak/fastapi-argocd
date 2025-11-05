@@ -1,0 +1,2 @@
+# fastapi-argocd
+test
